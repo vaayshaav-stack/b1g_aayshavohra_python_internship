@@ -9,8 +9,8 @@ while number != 0:
     
     if number != 0:
         print(f"  You entered: {number}")
-        
-        count += 1   # count += 1 is the same as count = count + 1
+
+        count += 1   
 
 print("-" * 40)
 print(f"You entered {count} number(s) before stopping.")
